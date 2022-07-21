@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trains</string>
+    <string name="train">Pociąg</string>
+    <string name="enemy">Przeciwnik</string>
+    <string name="player">Gracz</string>
+    <string name="title_activity_test">test</string>
+    <string name="trains">Pociągi</string>
+    <string name="shoot">Strzelaj!</string>
+    <string name="title_activity_choose_train">Wybierz pociąg</string>
+    <string name="resume">Aktywność została wznowiona</string>
+
+</resources>
